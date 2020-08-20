@@ -1,2 +1,2 @@
 [Dev]
-Dev1 ansible_ssh_host=52.201.228.186 ansible_ssh_user=ec2-user
+Dev1 ansible_ssh_host=100.26.227.97 ansible_ssh_user=ec2-user
